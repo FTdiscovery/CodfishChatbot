@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1003313135358",
+    "firebase_url": "https://collaborative-chatbot.firebaseio.com",
+    "project_id": "collaborative-chatbot",
+    "storage_bucket": "collaborative-chatbot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003313135358:android:ae1935a153a032e2",
+        "android_client_info": {
+          "package_name": "com.saltstudios.ftdiscovery.collaborativechatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003313135358-h9aom7ggcbv0ge9qgujqnnvgk8jqqefn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwHk3IzX_11mC3WFOhSPPaSQNfO_6tNOE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <TextView
+        android:text="NAME:"
+        android:id="@+id/name"
+        android:textAppearance="@style/TextAppearance.AppCompat.Widget.ActionBar.Menu"
+        android:paddingLeft="8dp"
+        android:paddingTop="22dp"
+        android:layout_marginLeft="5dp"
+        android:layout_height="55dp"
+        android:typeface="serif"
+        android:textSize="12sp"
+        android:fontFamily="sans-serif-medium"
+        android:textAllCaps="true"
+        android:layout_width="100dp"
+        android:textStyle="normal|bold" />
+
+    <TextView
+        android:text="lorem ipsum..."
+        android:id="@+id/conversation"
+        android:textAppearance="@style/TextAppearance.AppCompat.Widget.ActionBar.Menu"
+        android:paddingLeft="8dp"
+        android:paddingTop="22dp"
+        android:layout_marginLeft="5dp"
+        android:layout_height="55dp"
+        android:typeface="serif"
+        android:textSize="12sp"
+        android:fontFamily="sans-serif-medium"
+        android:textAllCaps="false"
+        android:layout_weight="1"
+        android:layout_width="match_parent" />
+
+</LinearLayout>
